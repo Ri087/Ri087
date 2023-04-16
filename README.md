@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jeremy</h1>
 <h3 align="center">A passionate full-stack developer from Lyon</h3>
+<img src="https://t3.ftcdn.net/jpg/03/18/60/62/360_F_318606217_Hk8jo2MVoI33SQOkYrfOF929J7JgIP0P.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ri087&label=Profile%20views&color=0e75b6&style=flat" alt="ri087" /> </p>
 
