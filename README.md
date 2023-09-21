@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Jeremy</h1>
 <h3 align="center">A passionate full-stack developer from Lyon</h3>
 
-- 🔭 I’m currently working on **CronosV2**
+- 🔭 I’m currently working for **origa.me**
 
-- 🌱 I’m currently learning **Laravel and React**
+- 🌱 I’m currently learning **React native**
 
 - 📫 How to reach me **jeremydura@hotmail.fr**
 
